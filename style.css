@@ -1,0 +1,44 @@
+/* Partie reservee au CSS */
+
+@import url('https://fonts.googleapis.com/css2? family=Fira+Sans:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2? family= Crète+Round:ital@1 & display=swap');
+
+h1 {
+      font-family: 'Fira Sans', sans-serif;
+      color:   #d83383;
+  }
+
+h2 {
+        font-family : 'Crete Round', serif;
+        color:  #d83383;
+    }
+.image_cercle {
+    width: 150px;
+    border-radius: 50%;
+    }
+p{
+    font-size: 20px;
+}
+a{
+    font-size: 25px;
+}
+#btn-blue {
+    background-color:   #f1d90c ;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 20px;
+    text-decoration: none;
+    }
+.container {
+    width: 700px;
+    margin: 40px auto;
+
+}
+.carte_blanche {
+    margin: 40px;
+    padding: 30px;
+    background:   #96afb9 ;
+    text-align: center;
+    box-shadow: 0px 10px 30px rgba (0.1);
+    border-radius: 25px;
+}
